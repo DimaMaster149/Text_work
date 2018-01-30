@@ -1,0 +1,30 @@
+#HeaderBar
+{
+  border-radius: 0;
+  margin: 0;
+  background-color: #00B7FF;
+  border:0;
+}
+
+ul .horizontal li{
+  display:inline-block;
+  margin:0.3rem;
+}
+
+.border {
+  padding-left:2rem;
+  padding-right:2rem;
+  padding-bottom: 0.5rem;
+  padding-top:0.5rem;
+  border: 0.1rem solid white;
+}
+
+.picture {
+  margin-top: 1.5rem;
+}
+
+.flex-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
